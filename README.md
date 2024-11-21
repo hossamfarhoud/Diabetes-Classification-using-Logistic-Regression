@@ -59,4 +59,4 @@ Essential libraries like Pandas, NumPy, Matplotlib, and Scikit-learn are used fo
 -Tune hyperparameters for improved model performance.
 -Incorporate additional datasets for increased generalizability.
 📂 GitHub Repository:
-Check out the full project and code on GitHub: Diabetes Classification using Logistic Regression
+Check out the full project and code on GitHub: https://github.com/hossamfarhoud/Diabetes-Classification-using-Logistic-Regression?tab=readme-ov-file#diabetes-classification-using-logistic-regression

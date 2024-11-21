@@ -58,3 +58,5 @@ Essential libraries like Pandas, NumPy, Matplotlib, and Scikit-learn are used fo
 -Explore other algorithms like Random Forest and SVM.
 -Tune hyperparameters for improved model performance.
 -Incorporate additional datasets for increased generalizability.
+📂 GitHub Repository:
+Check out the full project and code on GitHub: Diabetes Classification using Logistic Regression
